@@ -67,6 +67,12 @@
 				},
 				// 目标是在 markdown 中打开外部链接。默认'_blank'（新窗口/标签）
 				externalLinkTarget: '_blank', // default: '_blank' '_self'
+				alias:{
+					'/.*/_sidebar.md':'_sidebar.md',
+					'/.*/_navbar.md':'_navbar.md',
+					'/.*/_coverpage.md':'_coverpage.md',
+					'/.*/404.md':'404.md'
+				}
 			}
 		</script>
 		<!-- docsify的js依赖 -->
