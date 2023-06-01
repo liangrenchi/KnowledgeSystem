@@ -1,5 +1,5 @@
 * Java基础
-    * [面向对象](doc/Java基础/面向对象与面向过程.md)
+    * [面向对象](doc/Java基础/面向对象.md)
     * [基本数据类型](doc/toBeOrganized.md)
 	* [Java中各种关键字](doc/toBeOrganized.md)
 	* [集合类](doc/toBeOrganized.md)
