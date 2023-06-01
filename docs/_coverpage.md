@@ -1,4 +1,4 @@
-<!--![logo](images/logo.png)-->
+![logo](images/logo.png)
 
 # 三碗清风知识体系
 
