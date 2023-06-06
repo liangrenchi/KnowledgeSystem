@@ -81,6 +81,7 @@
 	* [缓存](doc/toBeOrganized.md)
 
 * Redis
+	* [Redis知识体系](doc/Redis/Redis知识体系.md)
     * [Redis常见面试题总结(上)](doc/toBeOrganized.md)
 	* [Redis常见面试题总结(下)](doc/toBeOrganized.md)
 	* [重要知识点](doc/toBeOrganized.md)
