@@ -15,7 +15,7 @@
 	* [Spring知识体系](doc/Spring/Spring知识体系.md)
 	
 * SpringMVC
-	* [Spring知识体系](doc/SpringMVC/SpringMVC知识体系.md)
+	* [SpringMVC知识体系](doc/SpringMVC/SpringMVC知识体系.md)
 
 * SpringBoot	
 	* [SpringBoot面试题整理](doc/toBeOrganized.md)
